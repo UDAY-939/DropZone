@@ -165,9 +165,9 @@ DropZone/
 
 **Uday Sonawane**
 
-[![GitHub](https://img.shields.io/badge/GitHub-uday045-181717?style=flat&logo=github)](https://github.com/UDAY-939)
+[![GitHub](https://img.shields.io/badge/GitHub-UDAY-939-181717?style=flat&logo=github)](https://github.com/UDAY-939)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Uday_Sonawane-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/uday-sonawane-9244a1404)
-[![Instagram](https://img.shields.io/badge/Instagram-@uday__sonawane045-E4405F?style=flat&logo=instagram)](https://www.instagram.com/uday._.369)
+[![Instagram](https://img.shields.io/badge/Instagram-@uday._.369-E4405F?style=flat&logo=instagram)](https://www.instagram.com/uday._.369)
 
 ---
 
