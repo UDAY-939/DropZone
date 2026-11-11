@@ -169,12 +169,4 @@ DropZone/
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Uday_Sonawane-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/uday-sonawane-9244a1404)
 [![Instagram](https://img.shields.io/badge/Instagram-@uday._.369-E4405F?style=flat&logo=instagram)](https://www.instagram.com/uday._.369)
 
----
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE) - feel free to use, modify, and distribute it for personal and commercial projects.
-
-<div align="center">
-  <sub>© 2026 U//DEV · Designed & Developed by Uday</sub>
-</div>
