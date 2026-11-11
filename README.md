@@ -117,17 +117,6 @@ npm run dev
 
 ---
 
-## 🌐 Production Deployment
-
-The project is pre-configured with production deployment blueprints (`render.yaml`, `Procfile`, and `railway.json`).
-
-### Recommended Free Tier Deployment:
-1. **Backend & Database**: Deploy on [Render.com](https://render.com) using the included `backend/Procfile` and free managed PostgreSQL.
-2. **Frontend**: Deploy on [Vercel](https://vercel.com) or [Netlify](https://netlify.com) pointing `VITE_API_URL` to your live backend domain.
-3. **Detailed Step-by-Step Instructions**: Check the [Deployment Guide](docs/DEPLOYMENT_GUIDE.md).
-
----
-
 ## 📁 Project Structure
 
 ```
